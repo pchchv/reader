@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Reader Container</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" media="screen" href="https://bootswatch.com/4/litera/bootstrap.min.css" />
+    </head>
+    <body>
+        <div class="container"><br>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="jumbotron">
+                        <h1 class="display-3">Hey you!</h1>
+                        <p class="lead">This is a simple Reader Container</p>
+                        <hr class="my-4">
+                        <p>
+                            Code <a href="https://github.com/pchchv/reader" target="_blank">Reader Container</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>Articles</h1>
+                    {{ range $key, $value := . }}
+                    <ul>
+                        <li>
+                            <h3> <a href="{{ $value.URL }}" target="_blank">{{ $value.Title }}</a>
+                                <small class="text-muted">{{ $value.Source }}</small>
+                            </h3>
+                            <p class="lead">Author: <i>{{ $value.Author }}</i> - {{ $value.Date }}</p>
+                        </li>
+                    </ul>
+                    {{ end }}
+                </div>
+            </div><br>
+        </div>
+    </body>
+</html>

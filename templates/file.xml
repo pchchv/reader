@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+   <category term="news" label="r/news" />
+   <updated>2018-05-31T20:45:10+00:00</updated>
+   <icon>https://www.redditstatic.com/icon.png/</icon>
+   <id>/r/news/.rss</id>
+   <link rel="self" href="https://www.reddit.com/r/news/.rss" type="application/atom+xml" />
+   <link rel="alternate" href="https://www.reddit.com/r/news/" type="text/html" />
+   <logo>https://a.thumbs.redditmedia.com/BCPcjmQTYwA3TAWllW7AJPixfTMQlMxn-fbD2pgcHT4.png</logo>
+   <subtitle>/r/news is: real news articles, primarily but not exclusively, news relating to the United States. /r/news isn't: editorials, commercials, political minutiae, shouting, justin bieber updates, kitty pictures. For a subreddit for all news-related content (editorials, satire, etc.) visit /r/inthenews.</subtitle>
+   <title>All news, US and international.</title>
+   <entry>
+      <author>
+         <name>/u/Suberiou</name>
+         <uri>https://www.reddit.com/user/Suberiou</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Suberiou"&gt; /u/Suberiou &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://www.reuters.com/article/us-usa-trade-metals/u-s-hits-eu-canada-and-mexico-with-steel-aluminum-tariffs-idUSKCN1IW1UY"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nikxr/us_hits_eu_canada_and_mexico_with_steel_aluminum/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nikxr</id>
+      <link href="https://www.reddit.com/r/news/comments/8nikxr/us_hits_eu_canada_and_mexico_with_steel_aluminum/" />
+      <updated>2018-05-31T13:53:39+00:00</updated>
+      <title>U.S. hits EU, Canada and Mexico with steel, aluminum tariffs</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/NovaStubble</name>
+         <uri>https://www.reddit.com/user/NovaStubble</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/NovaStubble"&gt; /u/NovaStubble &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://money.cnn.com/2018/05/31/news/companies/sears-store-closings-sales-losses/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nhwfc/sears_is_closing_72_more_stores/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nhwfc</id>
+      <link href="https://www.reddit.com/r/news/comments/8nhwfc/sears_is_closing_72_more_stores/" />
+      <updated>2018-05-31T12:10:38+00:00</updated>
+      <title>Sears is closing 72 more stores</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/Zack</name>
+         <uri>https://www.reddit.com/user/Zack</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Zack"&gt; /u/Zack &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://www.foxla.com/news/california-chick-fil-a-will-pay-workers-17-to-18-an-hour"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8ngz1n/california_chickfila_will_pay_workers_17_to_18_an/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8ngz1n</id>
+      <link href="https://www.reddit.com/r/news/comments/8ngz1n/california_chickfila_will_pay_workers_17_to_18_an/" />
+      <updated>2018-05-31T09:15:26+00:00</updated>
+      <title>California Chick-Fil-A will pay workers $17 to $18 an hour</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/mvanigan</name>
+         <uri>https://www.reddit.com/user/mvanigan</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/mvanigan"&gt; /u/mvanigan &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.theverge.com/2018/5/30/17406182/california-senate-net-neutrality-vote"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8ne4nr/california_senate_votes_to_restore_net_neutrality/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8ne4nr</id>
+      <link href="https://www.reddit.com/r/news/comments/8ne4nr/california_senate_votes_to_restore_net_neutrality/" />
+      <updated>2018-05-31T01:45:19+00:00</updated>
+      <title>California Senate votes to restore net neutrality</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/Goombaw</name>
+         <uri>https://www.reddit.com/user/Goombaw</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Goombaw"&gt; /u/Goombaw &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://www.nola.com/environment/index.ssf/2018/05/six-pack_rings_that_feed_sea_t.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nf7co/florida_brewery_unveils_sixpack_rings_that_feed/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nf7co</id>
+      <link href="https://www.reddit.com/r/news/comments/8nf7co/florida_brewery_unveils_sixpack_rings_that_feed/" />
+      <updated>2018-05-31T04:09:26+00:00</updated>
+      <title>Florida brewery unveils six-pack rings that feed sea turtles rather than kill them</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/amber_joy_vinson</name>
+         <uri>https://www.reddit.com/user/amber_joy_vinson</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/amber_joy_vinson"&gt; /u/amber_joy_vinson &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://www.miamiherald.com/news/nation-world/national/article212219484.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8neehb/suicidal_man_called_nj_cops_for_help_they_beat/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8neehb</id>
+      <link href="https://www.reddit.com/r/news/comments/8neehb/suicidal_man_called_nj_cops_for_help_they_beat/" />
+      <updated>2018-05-31T02:25:36+00:00</updated>
+      <title>Suicidal man called NJ cops for help. They beat him so badly he needed surgery, FBI says</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/paulhockey5</name>
+         <uri>https://www.reddit.com/user/paulhockey5</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/paulhockey5"&gt; /u/paulhockey5 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://www.cbc.ca/news/politics/trump-steel-deadline-1.4685242"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nkqv5/canada_hits_back_at_us_with_dollarfordollar/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nkqv5</id>
+      <link href="https://www.reddit.com/r/news/comments/8nkqv5/canada_hits_back_at_us_with_dollarfordollar/" />
+      <updated>2018-05-31T18:21:02+00:00</updated>
+      <title>Canada hits back at U.S. with dollar-for-dollar tariffs on steel, aluminum</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/Glazed-Donuts</name>
+         <uri>https://www.reddit.com/user/Glazed-Donuts</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Glazed-Donuts"&gt; /u/Glazed-Donuts &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.al.com/news/index.ssf/2018/05/gov_kay_ivey_state_officials_t.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nhyx2/governor_ivey_announces_alabama_schools_will_arm/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nhyx2</id>
+      <link href="https://www.reddit.com/r/news/comments/8nhyx2/governor_ivey_announces_alabama_schools_will_arm/" />
+      <updated>2018-05-31T12:21:29+00:00</updated>
+      <title>Governor Ivey announces Alabama schools will arm administrators</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/StelliferousPolaris</name>
+         <uri>https://www.reddit.com/user/StelliferousPolaris</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/StelliferousPolaris"&gt; /u/StelliferousPolaris &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://apnews.com/04c05a9dec884257b71fc9e83d27db1a/Denmark-joins-some-European-nations-in-banning-burqa,-niqab"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nh97g/denmark_joins_some_european_nations_in_banning/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nh97g</id>
+      <link href="https://www.reddit.com/r/news/comments/8nh97g/denmark_joins_some_european_nations_in_banning/" />
+      <updated>2018-05-31T10:14:32+00:00</updated>
+      <title>Denmark joins some European nations in banning burqa, niqab</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/trumpismysaviour</name>
+         <uri>https://www.reddit.com/user/trumpismysaviour</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/trumpismysaviour"&gt; /u/trumpismysaviour &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/investigates/special-report/usa-jails-louisiana/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8ni1n1/in_louisiana_jail_inmate_deaths_mount_as_mental/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8ni1n1</id>
+      <link href="https://www.reddit.com/r/news/comments/8ni1n1/in_louisiana_jail_inmate_deaths_mount_as_mental/" />
+      <updated>2018-05-31T12:34:00+00:00</updated>
+      <title>In Louisiana jail, inmate deaths mount as mental health pleas unheeded</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/woetotheconquered</name>
+         <uri>https://www.reddit.com/user/woetotheconquered</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/woetotheconquered"&gt; /u/woetotheconquered &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://abcstlouis.com/news/nation-world/oregon-bakery-fires-employees-for-denying-black-woman-service-after-closing"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nk8e0/oregon_bakery_fires_employees_for_denying_black/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nk8e0</id>
+      <link href="https://www.reddit.com/r/news/comments/8nk8e0/oregon_bakery_fires_employees_for_denying_black/" />
+      <updated>2018-05-31T17:19:41+00:00</updated>
+      <title>Oregon Bakery Fires Employees For Denying Black Woman Service After Closing</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/tkthedk</name>
+         <uri>https://www.reddit.com/user/tkthedk</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/tkthedk"&gt; /u/tkthedk &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://losangeles.cbslocal.com/2018/05/31/southwest-plane-emergency-landing-lax-passenger-smoke-marijuana/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nka9r/southwest_plane_bound_for_lax_makes_emergency/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nka9r</id>
+      <link href="https://www.reddit.com/r/news/comments/8nka9r/southwest_plane_bound_for_lax_makes_emergency/" />
+      <updated>2018-05-31T17:25:58+00:00</updated>
+      <title>Southwest Plane Bound For LAX Makes Emergency Landing After Passenger Smokes Joint</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/JoseTwitterFan</name>
+         <uri>https://www.reddit.com/user/JoseTwitterFan</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/JoseTwitterFan"&gt; /u/JoseTwitterFan &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnbc.com/2018/05/31/goldman-banker-charged-with-insider-trading.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nk0kd/goldman_banker_charged_with_insider_trading/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nk0kd</id>
+      <link href="https://www.reddit.com/r/news/comments/8nk0kd/goldman_banker_charged_with_insider_trading/" />
+      <updated>2018-05-31T16:53:45+00:00</updated>
+      <title>Goldman banker charged with insider trading</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/Jahurul786</name>
+         <uri>https://www.reddit.com/user/Jahurul786</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Jahurul786"&gt; /u/Jahurul786 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cbsnews.com/news/jury-clears-deputy-in-fatal-shooting-gregory-hill-jr-awards-victim-family-5-dollars/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8niqf9/jury_clears_deputy_in_fatal_shooting_awards/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8niqf9</id>
+      <link href="https://www.reddit.com/r/news/comments/8niqf9/jury_clears_deputy_in_fatal_shooting_awards/" />
+      <updated>2018-05-31T14:13:43+00:00</updated>
+      <title>Jury clears deputy in fatal shooting, awards victim's family $5</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/lolgreen</name>
+         <uri>https://www.reddit.com/user/lolgreen</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/lolgreen"&gt; /u/lolgreen &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.cnn.com/2018/05/30/politics/right-to-try-donald-trump/index.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nbj1e/trump_signs_right_to_try_act_aimed_at_helping/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nbj1e</id>
+      <link href="https://www.reddit.com/r/news/comments/8nbj1e/trump_signs_right_to_try_act_aimed_at_helping/" />
+      <updated>2018-05-30T19:37:43+00:00</updated>
+      <title>Trump signs 'Right to Try Act' aimed at helping terminally ill patients seek drug treatments</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/ActuallyShilling</name>
+         <uri>https://www.reddit.com/user/ActuallyShilling</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ActuallyShilling"&gt; /u/ActuallyShilling &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://www.abajournal.com/news/article/dc_ethics_board_seeks_suspension_for_ex_judges_manifestly_absurd_claims_in/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nikyg/dc_ethics_board_seeks_suspension_for_exjudges/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nikyg</id>
+      <link href="https://www.reddit.com/r/news/comments/8nikyg/dc_ethics_board_seeks_suspension_for_exjudges/" />
+      <updated>2018-05-31T13:53:44+00:00</updated>
+      <title>DC ethics board seeks suspension for ex-judge’s ‘manifestly absurd’ claims in $67M lost-pants suit</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/lukefreeman</name>
+         <uri>https://www.reddit.com/user/lukefreeman</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/lukefreeman"&gt; /u/lukefreeman &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reuters.com/article/us-serbia-archeology/serbian-archaeologists-find-sarcophagus-with-two-skeletons-and-jewellery-in-ancient-city-idUSKCN1IW1JB?feedType=RSS&amp;amp;feedName=scienceNews"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nhvuk/serbian_archaeologists_find_sarcophagus_with_two/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nhvuk</id>
+      <link href="https://www.reddit.com/r/news/comments/8nhvuk/serbian_archaeologists_find_sarcophagus_with_two/" />
+      <updated>2018-05-31T12:08:13+00:00</updated>
+      <title>Serbian archaeologists find sarcophagus with two skeletons and jewellery in ancient city</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/jeremy_jer</name>
+         <uri>https://www.reddit.com/user/jeremy_jer</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/jeremy_jer"&gt; /u/jeremy_jer &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://www.miamiherald.com/news/nation-world/national/article212206059.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nlaxk/doctor_was_paid_to_treat_911_firefighters_he/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nlaxk</id>
+      <link href="https://www.reddit.com/r/news/comments/8nlaxk/doctor_was_paid_to_treat_911_firefighters_he/" />
+      <updated>2018-05-31T19:29:01+00:00</updated>
+      <title>Doctor was paid to treat 9/11 firefighters. He vacationed abroad and stole $160,000, cops say</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/LuckyBdx4</name>
+         <uri>https://www.reddit.com/user/LuckyBdx4</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/LuckyBdx4"&gt; /u/LuckyBdx4 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://www.abc.net.au/news/2018-05-31/sydney-asbestos-dumper-jailed-and-has-to-buy-newspaper-ads/9820842"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8ngujn/notorious_waste_dumper_dib_hanna_jailed_made_to/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8ngujn</id>
+      <link href="https://www.reddit.com/r/news/comments/8ngujn/notorious_waste_dumper_dib_hanna_jailed_made_to/" />
+      <updated>2018-05-31T08:48:09+00:00</updated>
+      <title>Notorious waste dumper Dib Hanna jailed, made to pay for newspaper ads publicising his crime</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/tehgerbil</name>
+         <uri>https://www.reddit.com/user/tehgerbil</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/tehgerbil"&gt; /u/tehgerbil &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.smh.com.au/national/victoria/police-faked-258-000-breath-tests-in-shocking-breach-of-trust-20180530-p4zii8.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nbnhh/australian_police_faked_258000_breath_tests_in/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nbnhh</id>
+      <link href="https://www.reddit.com/r/news/comments/8nbnhh/australian_police_faked_258000_breath_tests_in/" />
+      <updated>2018-05-30T19:52:50+00:00</updated>
+      <title>Australian Police faked 258,000 breath tests in shocking 'breach of trust'</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/stupidstupidreddit</name>
+         <uri>https://www.reddit.com/user/stupidstupidreddit</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/stupidstupidreddit"&gt; /u/stupidstupidreddit &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.usatoday.com/story/money/2018/05/31/goldman-sachs-vp-charged-insider-trading-conspiracy/659909002/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nk9q2/goldman_sachs_vp_charged_in_insider_trading/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nk9q2</id>
+      <link href="https://www.reddit.com/r/news/comments/8nk9q2/goldman_sachs_vp_charged_in_insider_trading/" />
+      <updated>2018-05-31T17:24:07+00:00</updated>
+      <title>Goldman Sachs VP charged in insider trading conspiracy</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/soopninjas</name>
+         <uri>https://www.reddit.com/user/soopninjas</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/soopninjas"&gt; /u/soopninjas &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://www.bostonherald.com/news/local_coverage/2018/05/da_civilian_shot_while_observing_police_firearms_training"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8niehk/civilian_shot_while_observing_police_firearms/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8niehk</id>
+      <link href="https://www.reddit.com/r/news/comments/8niehk/civilian_shot_while_observing_police_firearms/" />
+      <updated>2018-05-31T13:27:49+00:00</updated>
+      <title>Civilian shot while observing police firearms training</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/Analog-Digital</name>
+         <uri>https://www.reddit.com/user/Analog-Digital</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Analog-Digital"&gt; /u/Analog-Digital &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://time.com/5296572/illinois-ratify-equal-rights-amendment-women/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nigb4/illinois_ratifies_the_equal_rights_amendment_36/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nigb4</id>
+      <link href="https://www.reddit.com/r/news/comments/8nigb4/illinois_ratifies_the_equal_rights_amendment_36/" />
+      <updated>2018-05-31T13:35:11+00:00</updated>
+      <title>Illinois Ratifies the Equal Rights Amendment — 36 Years After the Deadline</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/Btdub76</name>
+         <uri>https://www.reddit.com/user/Btdub76</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Btdub76"&gt; /u/Btdub76 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.usatoday.com/story/news/world/2018/05/31/surgeon-removes-ovaries-woman-kills-herself/658839002/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nksl6/surgeon_removes_ovaries_that_were_in_the_way/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nksl6</id>
+      <link href="https://www.reddit.com/r/news/comments/8nksl6/surgeon_removes_ovaries_that_were_in_the_way/" />
+      <updated>2018-05-31T18:26:52+00:00</updated>
+      <title>Surgeon removes ovaries that were 'in the way;' woman commits suicide</title>
+   </entry>
+   <entry>
+      <author>
+         <name>/u/HonEduVetSeeksJob</name>
+         <uri>https://www.reddit.com/user/HonEduVetSeeksJob</uri>
+      </author>
+      <category term="news" label="r/news" />
+      <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/HonEduVetSeeksJob"&gt; /u/HonEduVetSeeksJob &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="http://www.kansascity.com/news/article212128959.html"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/news/comments/8nffxn/woman_says_she_reported_prison_guards_rape_to_a/"&gt;[comentários]&lt;/a&gt;&lt;/span&gt;</content>
+      <id>t3_8nffxn</id>
+      <link href="https://www.reddit.com/r/news/comments/8nffxn/woman_says_she_reported_prison_guards_rape_to_a/" />
+      <updated>2018-05-31T04:42:13+00:00</updated>
+      <title>Woman says she reported prison guard's rape to a counselor, then he assaulted her, too</title>
+   </entry>
+</feed>
