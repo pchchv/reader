@@ -1,10 +1,13 @@
 package main
 
 import (
+	"html/template"
 	"log"
+	"net/http"
 	"os"
 
 	"github.com/joho/godotenv"
+	"github.com/pchchv/reader/consumer"
 )
 
 func init() {
@@ -24,4 +27,10 @@ func getEnvValue(v string) string {
 	return value
 }
 
-func main() {}
+func main() {
+	tmpl := template.Must(template.ParseFiles("templates/layout.html"))
+	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+		tmpl.Execute(w, consumer.Stories())
+	})
+	http.ListenAndServe(getEnvValue("PORT"), nil)
+}
