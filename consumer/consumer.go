@@ -2,6 +2,7 @@ package consumer
 
 import (
 	"github.com/pchchv/reader/hackernews"
+	"github.com/pchchv/reader/medium"
 	"github.com/pchchv/reader/models"
 	"github.com/pchchv/reader/reddit"
 )
@@ -11,7 +12,9 @@ func Stories() (stories []models.Article) {
 	for _, x := range hackernews.Stories() {
 		stories = append(stories, x)
 	}
-	// TODO: Implement retrieval of articles from medium
+	for _, x := range medium.Stories() {
+		stories = append(stories, x)
+	}
 	for _, x := range reddit.Stories() {
 		stories = append(stories, x)
 	}
